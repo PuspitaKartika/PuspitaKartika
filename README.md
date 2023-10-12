@@ -1,6 +1,6 @@
 # I'm Puspita👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PuspitaKartika&hide=contribs,prs)](https://github.com/PuspitaKartika/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PuspitaKartika&show_icons=true)](https://github.com/PuspitaKartika/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PuspitaKartika&layout=pie)](https://github.com/PuspitaKartika/github-readme-stats)
 <!--
