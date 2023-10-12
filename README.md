@@ -1,6 +1,6 @@
 # I'm Puspita👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PuspitaKartika)](https://github.com/PuspitaKartika/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PuspitaKartika&langs_count=8)](https://github.com/PuspitaKartika/github-readme-stats)
 <!--
 **PuspitaKartika/PuspitaKartika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
